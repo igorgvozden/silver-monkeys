@@ -5,7 +5,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>evo djoxa, mozes da nadogradis sto ti dusa iste</h1>
+      <div>
+        <h1>evo djoxa, mozes da nadogradis sto ti dusa iste</h1>
+        <h1>Gori goraaa , gori boroooovina! Goriii Gora Gori borovinaaaaa!</h1>
+      </div>
+      
     </div>
   );
 }
